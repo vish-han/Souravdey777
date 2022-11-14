@@ -6,13 +6,10 @@ Hope you ❤️ the repo. Don't forget to follow.
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Souravdey777/Souravdey777/master/Github Banner.svg" width="100%" title="Intro Card" alt="Intro Card">
-</p>
 
-I am  26 years old a 👨‍💻 **`Full-Stack Developer`**, occasional **`Designer`**, and **`Blogger`** facilitating the world with User Experience 🧐 as a Design Thinker 💭 and User-Centric Developer 💯 and while also exploring ☁️ Cloud
+I am  19 years old a 👨‍💻 **`Frontend-Developer`**, occasional **`Designer`**, and **`Blogger`** facilitating the world with User Experience 🧐 as a Design Thinker 💭 and User-Centric Developer 💯 and while also exploring ☁️ Cloud
 
-Working 💼 [**`@HackerRank`**](https://github.com/interviewstreet) as **`Software Development Engineer II`** | **`Ex-TCS Digital`**
+
 
 🤓 I have a keen interest in 🤝 collaborating and building digital solutions that solve real-world 🌍 problems. I'm also a **`Design Thinking facilitator`** and a **`Creative Technologist`** who believes that the merger between Design Thinking and Digital Technologies will lead to the building of user-centered solutions that are impactful toward the betterment of society.
 
@@ -33,7 +30,7 @@ Working 💼 [**`@HackerRank`**](https://github.com/interviewstreet) as **`Softw
  
  👯 I’m looking to collaborate for different Hackathons [**@Devpost**](https://devpost.com/Souravdey777)
 
- 💬 Ask me about Full Stack Development, Designing, Cloud, Blogging and Hackathons.
+ 💬 Ask me about Frontend Development, Designing, and Hackathons.
  
  👨‍🏫 Need help! You can reach out to me. I am a Software Development Mentor [**@Coding Coach**](https://mentors.codingcoach.io/?name=Sourav+Dey) & [**@ADPList**][ADPList]
  
@@ -58,18 +55,16 @@ Working 💼 [**`@HackerRank`**](https://github.com/interviewstreet) as **`Softw
 <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
 <img src="https://img.shields.io/badge/-NextJs-fff?style=flat&logo=next.js&logoColor=000">
 <img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/-GraphQL-e535ab?style=flat&logo=graphql&logoColor=FFFFFF">
+
 <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF">
 <img src="https://img.shields.io/badge/-ExpressJs-787878?style=flat">
 <img src="https://img.shields.io/badge/-NodeJs-3C873A?style=flat&logo=Node.js&logoColor=white">
 <img src="https://img.shields.io/badge/-Firebase-FFA611?style=flat&logo=firebase&logoColor=FFFFFF">
-<img src="http://img.shields.io/badge/-Google%20Cloud%20Platform-4285F4?style=flat&logo=google%20cloud&logoColor=white">
+
 <img src="https://img.shields.io/badge/-Progressive Web Apps-5A0FC8?style=flat">
 <img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
-<img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
-<img src="http://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white">
-<img src="http://img.shields.io/badge/-Vercel-black?style=flat&logo=vercel&logoColor=white">
+\
 
 ### Other Languages I know
 <img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff"> <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white">
@@ -146,9 +141,5 @@ Github Profile Readme Inspired by [@Souravdey777](https://github.com/Souravdey77
 [youtube]: https://youtube.com/
 [instagram]: https://www.instagram.com/souravdey777/
 [linkedin]: https://www.linkedin.com/in/souravdey777/
-[hashnode]: https://souravdey777.hashnode.dev/
-[medium]: https://medium.com/@Souravdey777
-[producthunt]: https://www.producthunt.com/@souravdey777
-[speakerdeck]: https://speakerdeck.com/Souravdey777
-[ADPList]: https://adplist.org/mentors/sourav-dey
+
 
